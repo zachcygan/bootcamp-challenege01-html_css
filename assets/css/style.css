@@ -5,10 +5,13 @@
     margin: 0;
 }
 
+/* modifies just the body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Modifies the header element
+It has a padding of 20px and a list of font families */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,11 +19,13 @@ body {
     color: #ffffff;
 }
 
+/* modifies the h1 element inside the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* modifies the .seo inside the sapn element */
 .header h1 .seo {
     color: #d9dcd6;
 }

@@ -30,6 +30,7 @@ It has a padding of 20px and a list of font families */
     color: #d9dcd6;
 }
 
+/* modified the div element inside the header */
 .header div {
     padding-top: 15px;
     margin-right: 20px;

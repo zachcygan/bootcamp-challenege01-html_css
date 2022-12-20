@@ -6,7 +6,7 @@ My motivation is to build good looking websites that are intuitive and effecient
 
 ## Installation
 
-The webpage is available at https://zachcygan.github.io/bootcamp-challenge01-html_css/. To view the source code within your browser, press F12 or right click the webpage and select "inspect". 
+The webpage is available at https://zachcygan.github.io/bootcamp-challenge01-html_css/. To view the source code within your browser, press F12 or right click the webpage and select "inspect" on windows. For MacOS,  press Command+Option+I or fn F12 (MacOS) to open Chrome DevTools. You can view any elements on the webpage or any of the styling by selecting the corresponding section in Chrome DevTools. 
 
 Screenshots of the finished webpage are shown below:
 
